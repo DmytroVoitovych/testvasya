@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testvasya/static/css/main.41cae662.css",
+    "main.js": "/testvasya/static/js/main.1df96a30.js",
+    "static/media/sprite-all-icons.svg": "/testvasya/static/media/sprite-all-icons.8ceadbc6918f0e8197f4b464aa5975c6.svg",
+    "index.html": "/testvasya/index.html",
+    "main.41cae662.css.map": "/testvasya/static/css/main.41cae662.css.map",
+    "main.1df96a30.js.map": "/testvasya/static/js/main.1df96a30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41cae662.css",
+    "static/js/main.1df96a30.js"
+  ]
+}
