@@ -2,7 +2,7 @@
   "name": "wallet-web-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "testvasya-mo9rtr4kl-dmytrovoitovych.vercel.app",
+  "homepage": "https://testvasya.vercel.app/",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
